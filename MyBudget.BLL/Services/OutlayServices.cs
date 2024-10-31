@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace MyBudget.BLL.Services
 {
-    public class RecordsServices
+    public class OutlayServices
     {
-        public RecordsServices() { }
+        public OutlayServices() { }
         
 
     }

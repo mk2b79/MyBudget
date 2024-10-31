@@ -1,6 +1,6 @@
 ﻿namespace MyBudget.DAL.Entities
 {
-    public class Record
+    public class Outlay
     {
         public int Id { get; set; }
         public decimal Money { get; set; }
